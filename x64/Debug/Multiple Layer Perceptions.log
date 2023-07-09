@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\Vs2022\Multiple Layer Perceptions\Main.cpp(48,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Multiple Layer Perceptions.vcxproj -> D:\Vs2022\Multiple Layer Perceptions\x64\Debug\Multiple Layer Perceptions.exe
